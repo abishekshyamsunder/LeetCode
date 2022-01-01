@@ -6,3 +6,5 @@
 5. 31 Dec 2021: Find First and Last position of element in Sorted Array **Med**  
 6. 31 Dec 2021: Search in Rotation Sorted Array **Med**
 7. 31 Dec 2021: Search 2D Matrix **Med**  
+8. 01 Jan 2021: Min Cost Climbing Stairs **Easy**  
+9. 01 Jan 2021: Climbing Stairs **Easy**  
