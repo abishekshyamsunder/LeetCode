@@ -11,3 +11,4 @@
 10. 01 Jan 2021: Find Minimum in rotation sorted array **Med**
 11. 01 Jan 2021: Find Peak Element **Med**  
 12. 01 Jan 2021: Remove Duplicates from Sorted List **Med**  
+13. 02 Jan 2021L House Robber **Med**
