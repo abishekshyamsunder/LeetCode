@@ -8,3 +8,5 @@
 7. 31 Dec 2021: Search 2D Matrix **Med**  
 8. 01 Jan 2021: Min Cost Climbing Stairs **Easy**  
 9. 01 Jan 2021: Climbing Stairs **Easy**  
+10. 01 Jan 2021: Find Minimum in rotation sorted array **Med**
+11. 01 Jan 2021: Find Peak Element **Med**  
