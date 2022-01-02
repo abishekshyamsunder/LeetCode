@@ -14,3 +14,4 @@
 13. 02 Jan 2021: House Robber *(Med)*
 14. 02 Jan 2021: House Robber II *(Med)*  
 15. 02 Jan 2021: Delete and Earn *(Med)* **REPEAT**  
+16. 02 Jan 2021: Course Schedule *(Med)*
