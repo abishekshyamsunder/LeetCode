@@ -16,3 +16,5 @@
 15. 02 Jan 2021: Delete and Earn *(Med)* **REPEAT**  
 16. 02 Jan 2021: Course Schedule *(Med)*
 17. 02 Jan 2021: Course Schedule II *(Med)*
+18. 03 Jan 2021: Jump Game *(Med)*
+19. 03 Jan 2021: Jump Game II *(Med)*
