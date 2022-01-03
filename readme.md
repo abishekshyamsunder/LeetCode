@@ -18,3 +18,7 @@
 17. 02 Jan 2021: Course Schedule II *(Med)*
 18. 03 Jan 2021: Jump Game *(Med)*
 19. 03 Jan 2021: Jump Game II *(Med)*
+20. 03 Jan 2021: Backspace String Compare *(Easy)*  
+21. 03 Jan 2021: Interval List intersections *(Med)*  
+22. 03 Jan 2021: Container with most water *(Med)*  
+23. 03 Jan 2021: Evaluvate Division *(Med)*
