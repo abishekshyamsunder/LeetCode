@@ -22,3 +22,4 @@
 21. 03 Jan 2021: Interval List intersections *(Med)*  
 22. 03 Jan 2021: Container with most water *(Med)*  
 23. 03 Jan 2021: Evaluvate Division *(Med)*
+24. 03 Jan 2021: Delete Middle Node of Linked list *(Med)*
