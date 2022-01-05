@@ -29,3 +29,7 @@
 28. 04 Jan 2021: Find all anagrams in a String *(Med)*
 29. 04 Jan 2021: Subarray Product less than K *(Med)* **REPEAT**
 30. 04 Jan 2021: Minimum Size subarray Sum *(Med)* 
+31. 05 Jan 2021: Number of Islands *(Med)* 
+32. 05 Jan 2021: Number of provinces *(Med)* 
+33. 05 Jan 2021: Maximum Product Subarray *(Med)* **REPEAT**
+34. 05 Jan 2021: Maximum Length of Subarray with positive product *(Med)* **REPEAT**
