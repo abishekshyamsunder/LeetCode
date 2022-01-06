@@ -35,3 +35,5 @@
 34. 05 Jan 2021: Maximum Length of Subarray with positive product *(Med)* **REPEAT**
 35. 05 Jan 2021: Redundant Connection *(Med)*
 36. 05 Jan 2021: House Robber III *(Med)*
+37. 06 Jan 2021: Populating Next pointer *(Med)*  
+38. 06 Jan 2021: Subtree of Another tree *(Easy)*
