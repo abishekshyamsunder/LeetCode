@@ -40,3 +40,7 @@
 39. 06 Jan 2021: Best Sightseeing Pair *(Med)*
 40. 06 Jan 2021: Best Time to buy and sell stock *(Easy)*
 41. 06 Jan 2021: Best Time to buy and sell stock II *(Med)*
+42. 07 Jan 2021: 3Sum Closest *(Med)*  
+43. 07 Jan 2021: Best time to buy and sell stocks with cooldown *(Med)* **REPEAT**
+44. 07 Jan 2021: Best time to buy and sell stocks with transaction fee *(Med)*
+45. 
