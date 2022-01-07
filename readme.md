@@ -37,3 +37,6 @@
 36. 05 Jan 2021: House Robber III *(Med)*
 37. 06 Jan 2021: Populating Next pointer *(Med)*  
 38. 06 Jan 2021: Subtree of Another tree *(Easy)*
+39. 06 Jan 2021: Best Sightseeing Pair *(Med)*
+40. 06 Jan 2021: Best Time to buy and sell stock *(Easy)*
+41. 06 Jan 2021: Best Time to buy and sell stock II *(Med)*
