@@ -43,4 +43,6 @@
 42. 07 Jan 2021: 3Sum Closest *(Med)*  
 43. 07 Jan 2021: Best time to buy and sell stocks with cooldown *(Med)* **REPEAT**
 44. 07 Jan 2021: Best time to buy and sell stocks with transaction fee *(Med)*
-45. 
+45. 07 Jan 2021: Shortest Path in Binary Matrix *(Med)*
+46. 07 Jan 2021: Surrounded Regions *(Med)*
+47. 07 Jan 2021: All Paths from source to target *(Med)*
