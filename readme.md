@@ -46,3 +46,7 @@
 45. 07 Jan 2021: Shortest Path in Binary Matrix *(Med)*
 46. 07 Jan 2021: Surrounded Regions *(Med)*
 47. 07 Jan 2021: All Paths from source to target *(Med)*
+48. 08 Jan 2021: Word Break *(Med)*
+49. 08 Jan 2021: Trapping Rain Water *(Hard)*
+50. 08 Jan 2021: Subsets *(Med)*  
+51. 08 Jan 2021: Subsets II *(Med)*  
