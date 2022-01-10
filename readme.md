@@ -51,3 +51,8 @@
 50. 08 Jan 2021: Subsets *(Med)*  
 51. 08 Jan 2021: Subsets II *(Med)*  
 52. 08 Jan 2021: Divide Two Integers *(Med)*
+53. 09 Jan 2021: Arithmetic Slices *(Med)*
+54. 09 Jan 2021: Decode Ways *(Med)*
+55. 09 Jan 2021: Permutations II *(Med)*
+56. 09 Jan 2021: Combination Sum *(Med)*
+57. 09 Jan 2021: Combination Sum II *(Med)*
