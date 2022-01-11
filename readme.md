@@ -64,3 +64,4 @@
 63. 11 Jan 2021: Map Sum Pairs *(Med)*
 64. 11 Jan 2021: Reverse Nodes in K Group *(Hard)*
 65. 11 Jan 2021: Pow(x,n) *(Med)*
+66. 11 Jan 2021: First Missing Positive *(Hard)*
