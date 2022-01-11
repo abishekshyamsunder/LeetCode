@@ -59,3 +59,6 @@
 58. 10 Jan 2021: Word Search *(Med)*
 59. 10 Jan 2021: Ugly Number II *(Med)* **REPEAT**
 60. 10 Jan 2021: Unique Binary Search Trees *(Med)*
+61. 11 Jan 2021: Pascal's Triange *(Easy)*
+62. 11 Jan 2021: Pascal's Triange II *(Easy)*
+63. 11 Jan 2021: Map Sum Pairs *(Med)*
