@@ -56,3 +56,6 @@
 55. 09 Jan 2021: Permutations II *(Med)*
 56. 09 Jan 2021: Combination Sum *(Med)*
 57. 09 Jan 2021: Combination Sum II *(Med)*
+58. 10 Jan 2021: Word Search *(Med)*
+59. 10 Jan 2021: Ugly Number II *(Med)* **REPEAT**
+60. 10 Jan 2021: Unique Binary Search Trees *(Med)*
