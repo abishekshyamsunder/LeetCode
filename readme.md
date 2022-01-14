@@ -65,3 +65,10 @@
 64. 11 Jan 2021: Reverse Nodes in K Group *(Hard)*
 65. 11 Jan 2021: Pow(x,n) *(Med)*
 66. 11 Jan 2021: First Missing Positive *(Hard)*
+___
+67. 12 Jan 2021: Unique Paths *(Medium)*  
+68. 12 Jan 2021: Unique Paths II *(Medium)*
+69. 12 Jan 2021: Minimum Falling Sum *(Medium)*
+70. 12 Jan 2021: Triangle *(Medium)*
+71. 13 Jan 2021: Range Sum Query 2D - Immutable *(Medium)*
+72. 13 Jan 2021: Longest Palindromic Substring *(Medium)*
