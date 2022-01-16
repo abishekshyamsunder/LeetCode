@@ -72,3 +72,9 @@ ___
 70. 12 Jan 2021: Triangle *(Medium)*
 71. 13 Jan 2021: Range Sum Query 2D - Immutable *(Medium)*
 72. 13 Jan 2021: Longest Palindromic Substring *(Medium)*
+73. 15 Jan 2021: Minimum Path Sum *(Medium)*
+74. 15 Jan 2021: Maximal Square *(Medium)*
+75. 15 Jan 2021: Longest Increasing Subsequence *(Medium)*
+76. 15 Jan 2021: Number of Longest increasing Subsequence *(Medium)*
+77. 16 Jan 2021: Delete Operation for 2 strings *(Medium)*
+78. 16 Jan 2021: Longest Panindromic Subsequence *(Medium)*
