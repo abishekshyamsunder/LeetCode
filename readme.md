@@ -1,6 +1,6 @@
 # Leetcode Questions  
 01. 29 Dec 2021: 3 Sum problem *(Med)*  **REPEAT**
-02. 30 Dec 2021: Generate Parentheses *(Med)*  **REPEAT**
+02. 30 Dec 2021: Generate Parentheses *(Med)* 
 03. 31 Dec 2021: Fibonacci *(Easy)*  
 04. 31 Dec 2021: Tribonacci *(Easy)*  
 05. 31 Dec 2021: Find First and Last position of element in Sorted Array *(Med)*  
@@ -79,3 +79,5 @@ ___
 77. 16 Jan 2021: Delete Operation for 2 strings *(Medium)*
 78. 16 Jan 2021: Longest Panindromic Subsequence *(Medium)*
 79. 16 Jan 2021: Longest common Subsequence *(Medium)*
+80. 16 Jan 2021: Maximise Distance To closest Person *(Medium)*
+81. 16 Jan 201: Sliding Puzzle *(Hard)* **REPEAT**
