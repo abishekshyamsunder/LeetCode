@@ -78,3 +78,4 @@ ___
 76. 15 Jan 2021: Number of Longest increasing Subsequence *(Medium)*
 77. 16 Jan 2021: Delete Operation for 2 strings *(Medium)*
 78. 16 Jan 2021: Longest Panindromic Subsequence *(Medium)*
+79. 16 Jan 2021: Longest common Subsequence *(Medium)*
