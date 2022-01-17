@@ -81,3 +81,9 @@ ___
 79. 16 Jan 2022: Longest common Subsequence *(Medium)*
 80. 16 Jan 2022: Maximise Distance To closest Person *(Medium)*
 81. 16 Jan 2022: Sliding Puzzle *(Hard)* **REPEAT**
+82. 17 Jan 2022: Wiggle Subsequence *(Med)*  
+83. 17 Jan 2022: Word Pattern *(Easy)*  
+84. 17 Jan 2022: Longest Valid Paranthesis *(Hard)*
+85. 17 Jan 2022: Edit Distance *(Hard)*
+86. 17 Jan 2022: Coin Change *(Med)*
+87. 17 Jan 2022: Integer Break *(Med)*
