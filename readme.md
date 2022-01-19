@@ -89,3 +89,8 @@ ___
 87. 17 Jan 2022: Integer Break *(Med)*
 88. 17 Jan 2022: Count and Say *(Med)*
 89. 17 Jan 2022: Wildcard Matching *(Hard)*
+90. 18 Jan 2022: Is Subsequence *(Easy)*
+91. 18 Jan 2022: Bitwise AND of numbers range *(Med)*  
+92. 19 Jan 2022: Shuffle an array *(Med)* 
+93. 19 Jan 2022: Coin Change 2 *(Med)* **REPEAT**
+94. 19 Jan 2022: Linked List Cycle 2 *(Med)* **REPEAT**
