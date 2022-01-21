@@ -99,3 +99,4 @@ ___
 97. 21 Jan 2022: Minimum Height Trees *(Med)* **REPEAT**
 98. 21 Jan 2022: Group Anagrams *(Med)*
 99. 21 Jan 2022: Multiply Strings *(Med)*
+100. 21 Jan 2022: Loud and rich *(Med)*
