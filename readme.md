@@ -98,3 +98,4 @@ ___
 96. 20 Jan 2022: Perfect Squares *(Med)*
 97. 21 Jan 2022: Minimum Height Trees *(Med)* **REPEAT**
 98. 21 Jan 2022: Group Anagrams *(Med)*
+99. 21 Jan 2022: Multiply Strings *(Med)*
