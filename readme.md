@@ -96,3 +96,4 @@ ___
 94. 19 Jan 2022: Linked List Cycle 2 *(Med)* **REPEAT**
 95. 20 Jan 2022: Combination Sum 4 *(Med)* **REPEAT**
 96. 20 Jan 2022: Perfect Squares *(Med)*
+97. 21 Jan 2022: Minimum Height Trees *(Med)* **REPEAT**
