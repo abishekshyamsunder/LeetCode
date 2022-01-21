@@ -94,3 +94,5 @@ ___
 92. 19 Jan 2022: Shuffle an array *(Med)* 
 93. 19 Jan 2022: Coin Change 2 *(Med)* **REPEAT**
 94. 19 Jan 2022: Linked List Cycle 2 *(Med)* **REPEAT**
+95. 20 Jan 2022: Combination Sum 4 *(Med)* **REPEAT**
+96. 20 Jan 2022: Perfect Squares *(Med)*
