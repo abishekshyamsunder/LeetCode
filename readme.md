@@ -103,3 +103,5 @@ ___
 101. 22 Jan 2022: Stone Game 4 *(Hard)*
 102. 22 Jan 2022: Rotate Image *(Med)*
 103. 22 Jan 2022: Largest Rectangle in Histogram *(Hard)* **REPEAT**
+104. 23 Jan 2022: Sequential Digits *(Med)*
+105. 24 Jan 2022: Detect Capital *(Easy)*
