@@ -109,3 +109,4 @@ ___
 107. 25 Jan 2022: Minimum Number of Removals to Make Mountain Array *(Hard)* **REPEAT**
 108. 25 Jan 2022: Mountain Array *(Easy)*  
 109. 25 Jan 2022: Longest substring without repeating characters *(Med)*
+110. 25 Jan 2022: Maximum Number of Points with Cost *(Med)* **REPEAT**
