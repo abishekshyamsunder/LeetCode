@@ -110,3 +110,5 @@ ___
 108. 25 Jan 2022: Mountain Array *(Easy)*  
 109. 25 Jan 2022: Longest substring without repeating characters *(Med)*
 110. 25 Jan 2022: Maximum Number of Points with Cost *(Med)* **REPEAT**
+111. 26 Jan 2022: All elements in Two binary Search Trees *(Med)*
+112. 26 Jan 2022: Binary Tree Maximum Path Sum *(Med)*
