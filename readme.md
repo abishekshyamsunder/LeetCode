@@ -114,3 +114,7 @@ ___
 112. 26 Jan 2022: Binary Tree Maximum Path Sum *(Med)*
 113. 26 Jan 2022: Word Ladder *(Hard)* **REPEAT**
 114. 26 Jan 2022: Course Schedule II *(Med)*
+115. 27 Jan 2022: Maximum XOR of two numbers in an Array *(Med)* **REPEAT**
+116. 27 Jan 2022: Maximum XOR with an element from an Array *(Hard)* **REPEAT**
+117. 27 Jan 2022: Count Complete Tree Nodes *(Med)*
+118. 27 Jan 2022: Decode String *(Med)*
