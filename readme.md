@@ -122,3 +122,5 @@ ___
 120. 28 Jan 2022: Implement Trie *(Med)* **REPEAT**
 121. 28 Jan 2022: Design Add and Search Words Data Structure *(Med)*
 122. 30 Jan 2022: Rotate Array *(Med)* **REPEAT** 
+123. 30 Jan 2022: Rotate List *(Med)*
+124. 30 Jan 2022: Reverse Words in a String *(Med)*
