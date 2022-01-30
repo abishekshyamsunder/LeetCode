@@ -121,3 +121,4 @@ ___
 119. 27 Jan 2022: Split Array Largest Sum *(Hard)*
 120. 28 Jan 2022: Implement Trie *(Med)* **REPEAT**
 121. 28 Jan 2022: Design Add and Search Words Data Structure *(Med)*
+122. 30 Jan 2022: Rotate Array *(Med)* **REPEAT** 
