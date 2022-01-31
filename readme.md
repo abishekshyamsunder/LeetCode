@@ -124,3 +124,5 @@ ___
 122. 30 Jan 2022: Rotate Array *(Med)* **REPEAT** 
 123. 30 Jan 2022: Rotate List *(Med)*
 124. 30 Jan 2022: Reverse Words in a String *(Med)*
+125. 31 Jan 2022: Score after flipping Matrix *(Med)* **REPEAT**
+126. 31 Jan 2022: Richest Customer Wealth *(Easy)*
