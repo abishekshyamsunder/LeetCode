@@ -131,3 +131,6 @@ ___
 129. 03 Feb 2022: Missing element in Sorted Array *(Med)*
 130. 03 Feb 2022: Find Peak Element II *(Med)*
 131. 03 Feb 2022: 4Sum II *(Med)* **REPEAT**
+132. 04 Feb 2022: Divide Chocolate *(Hard)* **REPEAT**
+133. 04 Feb 2022: Contiguous Array *(Med)* **REPEAT**
+134. 04 Feb 2022: Shortest Distance to target *(Med)* 
