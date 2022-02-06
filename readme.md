@@ -134,3 +134,7 @@ ___
 132. 04 Feb 2022: Divide Chocolate *(Hard)* **REPEAT**
 133. 04 Feb 2022: Contiguous Array *(Med)* **REPEAT**
 134. 04 Feb 2022: Shortest Distance to target *(Med)* 
+135. 05 Feb 2022: Merge K sorted Lists *(Hard)*
+136. 06 Feb 2022: Remove Duplicates from Sorted Array II *(Med)*
+137. 06 Feb 2022: Meeting Scheduler *(Med)*
+138. 06 Feb 2022: Find Duplicate Number *(Med)* **REPEAT**
