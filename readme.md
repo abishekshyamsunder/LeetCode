@@ -138,3 +138,4 @@ ___
 136. 06 Feb 2022: Remove Duplicates from Sorted Array II *(Med)*
 137. 06 Feb 2022: Meeting Scheduler *(Med)*
 138. 06 Feb 2022: Find Duplicate Number *(Med)* **REPEAT**
+139. 06 Feb 2022: Product of Two Run-Length Encoded Arrays *(Med)*
