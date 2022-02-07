@@ -139,3 +139,6 @@ ___
 137. 06 Feb 2022: Meeting Scheduler *(Med)*
 138. 06 Feb 2022: Find Duplicate Number *(Med)* **REPEAT**
 139. 06 Feb 2022: Product of Two Run-Length Encoded Arrays *(Med)*
+140. 07 Feb 2022: Longest substring with atmost 2 distinct characters *(Med)*
+141. 07 Feb 2022: Longest substring with atmost k distinct characters *(Med)*
+142. 07 Feb 2022: Find the difference *(Easy)*
