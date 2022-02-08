@@ -142,3 +142,7 @@ ___
 140. 07 Feb 2022: Longest substring with atmost 2 distinct characters *(Med)*
 141. 07 Feb 2022: Longest substring with atmost k distinct characters *(Med)*
 142. 07 Feb 2022: Find the difference *(Easy)*
+143. 08 Feb 2022: Max Consecutive Ones III *(Med)* **WITH HINT**
+144. 08 Feb 2022: Sliding Window Maximum *(Hard)* **WITH HINT**
+145. 08 Feb 2022: Minimum Window Substring *(Hard)*
+146. 08 Feb 2022: Add Digits *(Easy)*
