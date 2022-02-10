@@ -146,3 +146,9 @@ ___
 144. 08 Feb 2022: Sliding Window Maximum *(Hard)* **WITH HINT**
 145. 08 Feb 2022: Minimum Window Substring *(Hard)*
 146. 08 Feb 2022: Add Digits *(Easy)*
+147. 09 Feb 2022: K-diff pairs in Array *(Med)*
+148. 09 Feb 2022: Walls and Gates *(Med)* **REPEAT**
+149. 09 Feb 2022: Pacific Atlantic Water Flow *(Med)*
+150. 10 Feb 2022: Find all the lonely nodes *(Easy)*
+151. 10 Feb 2022: Kill Process *(Med)* 
+152. 10 Feb 2022: Subarray Sum Equals K *(Med) **REPEAT** 
