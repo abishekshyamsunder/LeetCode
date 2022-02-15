@@ -152,3 +152,8 @@ ___
 150. 10 Feb 2022: Find all the lonely nodes *(Easy)*
 151. 10 Feb 2022: Kill Process *(Med)* 
 152. 10 Feb 2022: Subarray Sum Equals K *(Med) **REPEAT** 
+153. 11 Feb 2022: Permutation in String *(Med)*
+154. 11 Feb 2022: All Nodes Distance K in binary tree *(Med)* **REPEAT**
+155. 11 Feb 2022: Open the Lock *(Med)*
+156. 12 Feb 2022: Number of Operations to make network Connected *(Med)*
+157. 15 Feb 2022: Single Number *(EASY)* **REPEAT**
