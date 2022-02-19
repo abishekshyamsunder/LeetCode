@@ -157,3 +157,7 @@ ___
 155. 11 Feb 2022: Open the Lock *(Med)*
 156. 12 Feb 2022: Number of Operations to make network Connected *(Med)*
 157. 15 Feb 2022: Single Number *(EASY)* **REPEAT**
+158. 16 Feb 2022: Swap Pairs *(Med)*
+159. 16 Feb 2022: Factor Combinations *(Med)* **REPEAT**
+160. 19 Feb 2022: Minimize Deviation in Array *(Hard)* **REPEAT**
+161. 19 Feb 2022: Smallest Range Covering Elements from K lists *(Hard)* **REPEAT**
