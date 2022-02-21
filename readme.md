@@ -161,3 +161,6 @@ ___
 159. 16 Feb 2022: Factor Combinations *(Med)* **REPEAT**
 160. 19 Feb 2022: Minimize Deviation in Array *(Hard)* **REPEAT**
 161. 19 Feb 2022: Smallest Range Covering Elements from K lists *(Hard)* **REPEAT**
+162. 20 Feb 2022: Remove Covered Intervals *(Med)*  
+163. 21 Feb 2022: Find Majority elemenr *(Easy)*  
+164. 21 Feb 2022: Remove K Digits *(Med)*  
