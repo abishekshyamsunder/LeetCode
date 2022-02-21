@@ -164,3 +164,4 @@ ___
 162. 20 Feb 2022: Remove Covered Intervals *(Med)*  
 163. 21 Feb 2022: Find Majority elemenr *(Easy)*  
 164. 21 Feb 2022: Remove K Digits *(Med)*  
+165. 21 Feb 2022: N Queens *(Hard)* **REPEAT**
