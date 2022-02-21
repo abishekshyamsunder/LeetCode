@@ -162,6 +162,7 @@ ___
 160. 19 Feb 2022: Minimize Deviation in Array *(Hard)* **REPEAT**
 161. 19 Feb 2022: Smallest Range Covering Elements from K lists *(Hard)* **REPEAT**
 162. 20 Feb 2022: Remove Covered Intervals *(Med)*  
-163. 21 Feb 2022: Find Majority elemenr *(Easy)*  
+163. 21 Feb 2022: Find Majority element *(Easy)*  
 164. 21 Feb 2022: Remove K Digits *(Med)*  
 165. 21 Feb 2022: N Queens *(Hard)* **REPEAT**
+166. 21 Feb 2022: Sudoku Solver *(Hard)* 
