@@ -166,3 +166,5 @@ ___
 164. 21 Feb 2022: Remove K Digits *(Med)*  
 165. 21 Feb 2022: N Queens *(Hard)* **REPEAT**
 166. 21 Feb 2022: Sudoku Solver *(Hard)* 
+167. 22 Feb 2022: Excel Sheet Column Number *(Easy)*
+168. 22 Feb 2022: Regular Expression Matching *(Hard)* 
