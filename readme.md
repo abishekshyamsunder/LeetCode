@@ -182,3 +182,6 @@ ___
 180. 04 Mar 2022: Champagne Tower *(Med)*
 181. 04 Mar 2022: Max Area of Island *(Med)*
 182. 04 Mar 2022: Number of Closed Islands *(Med)* **WITH HINT**
+183. 04 Mar 2022: Sort Colors *(Med)* 
+184. 04 Mar 2022: Marge Intervals *(Med)*
+185. 04 Mar 2022: Design HashMap *(Easy)* **WITH HINT**
