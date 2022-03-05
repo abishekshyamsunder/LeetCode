@@ -185,3 +185,5 @@ ___
 183. 04 Mar 2022: Sort Colors *(Med)* 
 184. 04 Mar 2022: Marge Intervals *(Med)*
 185. 04 Mar 2022: Design HashMap *(Easy)* **WITH HINT**
+186. 05 Mar 2022: Number of Enclaves *(Med)*
+187. 05 Mar 2022: Count Sub Islands *(Med)*  
