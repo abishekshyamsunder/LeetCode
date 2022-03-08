@@ -191,3 +191,6 @@ ___
 189. 06 Mar 2022: As far from Land as Possible *(Med)*
 190. 06 Mar 2022: Search a 2D matrix II *(Med)* **REPEAT**
 191. 06 Mar 2022: Non Overlapping Intervals *(Med)* **REPEAT**
+192. 08 Mar 2022: 01 Matrix *(Med)*
+193. 08 Mar 2022: Nearest Exit from entrance in Maze *(Med)*
+194. 08 Mar 2022: Linked List Cycle *(Easy)*
