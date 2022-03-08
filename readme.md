@@ -194,3 +194,7 @@ ___
 192. 08 Mar 2022: 01 Matrix *(Med)*
 193. 08 Mar 2022: Nearest Exit from entrance in Maze *(Med)*
 194. 08 Mar 2022: Linked List Cycle *(Easy)*
+195. 08 Mar 2022: Increasing Triplet Subsequence *(Med)*  
+196. 08 Mar 2022: Product of array except self *(Med)*  
+197. 08 Mar 2022: Add Strings *(Easy)*  
+198. 08 Mar 2022: Longest Palindrome *(Easy)*  
