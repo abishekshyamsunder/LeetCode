@@ -198,3 +198,5 @@ ___
 196. 08 Mar 2022: Product of array except self *(Med)*  
 197. 08 Mar 2022: Add Strings *(Easy)*  
 198. 08 Mar 2022: Longest Palindrome *(Easy)*  
+199. 10 Mar 2022: Partition Lables *(Med)*
+200. 10 Mar 2022: Keys and Rooms *(Med)*
