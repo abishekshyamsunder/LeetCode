@@ -203,3 +203,5 @@ ___
 201. 11 Mar 2022: Time needed to inform all Employees *(Med)*
 202. 11 Mar 2022: Find Eventual Safe States *(Med)*
 203. 11 Mar 2022: Repeated DNA Sequences *(Med)*
+204. 14 Mar 2022: Copy List with Random Pointer *(Med)*
+205. 14 Mar 2022: Simplify Path *(Med)*
