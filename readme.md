@@ -205,3 +205,7 @@ ___
 203. 11 Mar 2022: Repeated DNA Sequences *(Med)*
 204. 14 Mar 2022: Copy List with Random Pointer *(Med)*
 205. 14 Mar 2022: Simplify Path *(Med)*
+206. 15 Mar 2022: Minimum Remove to make valid paranthesis *(Med)* **WITH HINT**
+207. 20 Mar 2022: Minimum Domino Rotations for Equal Row *(Med)*
+208. 20 Mar 2022: Remove Duplicate Letters *(Med)* **WITH HINT**
+209. 20 Mar 2022: Score of Paranthesis *(Med)*
