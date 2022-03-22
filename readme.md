@@ -210,3 +210,4 @@ ___
 208. 20 Mar 2022: Remove Duplicate Letters *(Med)* **WITH HINT**
 209. 20 Mar 2022: Score of Paranthesis *(Med)*
 210. 21 Mar 2022: One Edit Distance *(Med)*
+211. 22 Mar 2022: Smallest String With A Given Numeric Value *(Med)* **WITH HINT**
