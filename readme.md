@@ -211,3 +211,4 @@ ___
 209. 20 Mar 2022: Score of Paranthesis *(Med)*
 210. 21 Mar 2022: One Edit Distance *(Med)*
 211. 22 Mar 2022: Smallest String With A Given Numeric Value *(Med)* **WITH HINT**
+212. 23 Mar 2022: Broken Calculator *(Med)* **REPEAT**
