@@ -212,3 +212,4 @@ ___
 210. 21 Mar 2022: One Edit Distance *(Med)*
 211. 22 Mar 2022: Smallest String With A Given Numeric Value *(Med)* **WITH HINT**
 212. 23 Mar 2022: Broken Calculator *(Med)* **REPEAT**
+213. 23 Mar 2022: Min Stack *(Easy)*
