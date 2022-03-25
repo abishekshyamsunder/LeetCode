@@ -225,3 +225,4 @@ ___
 223. 25 Mar 2022: Longest Consecutive sequence *(Med)* **REPEAT** O(n^2) -> O(n)
 224. 25 Mar 2022: Sum of all odd length subarrays *(Easy)*
 225. 25 Mar 2022: Find All Numbers Disappeared in an Array *(Easy)*
+226. 25 Mar 2022: Shortest Palindrome *(Hard)* **REPEAT**
