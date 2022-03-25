@@ -222,3 +222,5 @@ ___
 220. 24 Mar 2022: Minimum Number of Arrows to burst Balloons *(Med)*
 221. 24 Mar 2022: Online Stock Span *(Med)* 
 222. 25 Mar 2022: Two city scheduling *(Med)* **REPEAT**
+223. 25 Mar 2022: Longest Consecutive sequence *(Med)* **REPEAT** $O(n^2) \rightarrow O(n)$
+224. 25 Mar 2022: Sum of all odd length subarrays *(Easy)*
