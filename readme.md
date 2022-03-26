@@ -226,3 +226,8 @@ ___
 224. 25 Mar 2022: Sum of all odd length subarrays *(Easy)*
 225. 25 Mar 2022: Find All Numbers Disappeared in an Array *(Easy)*
 226. 25 Mar 2022: Shortest Palindrome *(Hard)* **REPEAT**
+227. 26 Mar 2022: Binary Search *(Easy)*
+228. 26 Mar 2022: Perform String Shifts *(Easy)*
+229. 26 Mar 2022: Flatten MultiLevel Doubly Linked list *(Med)*
+230. 26 Mar 2022: Add two polynomials represented as linked lists *(Med)*
+231. 26 Mar 2022: Plus one Linked List *(Med)*
