@@ -236,3 +236,4 @@ ___
 234. 27 Mar 2022: Zig Zag Iterator *(Med)*
 235. 27 Mar 2022: The K weakest rows in a matrix *(Easy)*
 236. 27 Mar 2022: Find Nearest Right Node in Binary Tree *(Med)*
+237. 27 Mar 2022: Diameter of N-Ary Tree *(Med)*
