@@ -231,3 +231,8 @@ ___
 229. 26 Mar 2022: Flatten MultiLevel Doubly Linked list *(Med)*
 230. 26 Mar 2022: Add two polynomials represented as linked lists *(Med)*
 231. 26 Mar 2022: Plus one Linked List *(Med)*
+232. 27 Mar 2022: Shortest SubArray with sum atleast k *(Hard)* **REPEAT**
+233. 27 Mar 2022: 132 Pattern *(Med)* **REPEAT**
+234. 27 Mar 2022: Zig Zag Iterator *(Med)*
+235. 27 Mar 2022: The K weakest rows in a matrix *(Easy)*
+236. 27 Mar 2022: Find Nearest Right Node in Binary Tree *(Med)*
