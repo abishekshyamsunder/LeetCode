@@ -237,3 +237,5 @@ ___
 235. 27 Mar 2022: The K weakest rows in a matrix *(Easy)*
 236. 27 Mar 2022: Find Nearest Right Node in Binary Tree *(Med)*
 237. 27 Mar 2022: Diameter of N-Ary Tree *(Med)*
+238. 28 Mar 2022: Search In rotated sorted array II *(Med)*
+239. 28 Mar 2022: Delete leaves of a given value *(Med)*
