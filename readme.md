@@ -241,3 +241,4 @@ ___
 239. 28 Mar 2022: Delete leaves of a given value *(Med)*
 240. 30 Mar 2022: Possible Bi-Partition *(Med)* **REPEAT**
 241. 30 Mar 2022: Cheapest Flight within K stops *(Med)*
+242. 30 Mar 2022: Graph Valid Tree *(Med)*
