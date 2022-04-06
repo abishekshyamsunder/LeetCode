@@ -242,3 +242,4 @@ ___
 240. 30 Mar 2022: Possible Bi-Partition *(Med)* **REPEAT**
 241. 30 Mar 2022: Cheapest Flight within K stops *(Med)*
 242. 30 Mar 2022: Graph Valid Tree *(Med)*
+243. 06 Apr 2022: 3Sum With Multiplicity *(Med)* **REPEAT**
