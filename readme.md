@@ -244,3 +244,5 @@ ___
 242. 30 Mar 2022: Graph Valid Tree *(Med)*
 243. 06 Apr 2022: 3Sum With Multiplicity *(Med)* **REPEAT**
 244. 07 Apr 2022: Last Stone Weight *(Easy)*  
+245. 07 Apr 2022: Number of connected components *(Med)*
+246. 07 Apr 2022: Earliest time when everyone became friends *(Med)*
