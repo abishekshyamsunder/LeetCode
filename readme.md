@@ -250,3 +250,5 @@ ___
 248. 08 Apr 2022: Satisfiability of Equality Equations *(Med)*
 249. 08 Apr 2022: Kth Largest Element in a stream *(Easy)*
 250. 08 Apr 2022: Find Median from Data Stream *(Hard)*
+251. 09 Apr 2022: Rearrange String distance K apart *(Hard)* **REPEAT**
+252. 09 Apr 2022: Top K Frequent Elements *(Med)*
