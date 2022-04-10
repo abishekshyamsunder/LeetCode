@@ -1,4 +1,4 @@
-[Link to SQL study Plan ReadMe]()
+[Link to SQL Progress ReadMe](https://github.com/abishekshyamsunder/LeetCode/blob/main/SQLProgress.md)
 # Leetcode Questions  
 01. 29 Dec 2021: 3 Sum problem *(Med)*  **REPEAT**
 02. 30 Dec 2021: Generate Parentheses *(Med)* 
