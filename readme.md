@@ -1,3 +1,4 @@
+[Link to SQL study Plan ReadMe]()
 # Leetcode Questions  
 01. 29 Dec 2021: 3 Sum problem *(Med)*  **REPEAT**
 02. 30 Dec 2021: Generate Parentheses *(Med)* 
@@ -252,3 +253,5 @@ ___
 250. 08 Apr 2022: Find Median from Data Stream *(Hard)*
 251. 09 Apr 2022: Rearrange String distance K apart *(Hard)* **REPEAT**
 252. 09 Apr 2022: Top K Frequent Elements *(Med)*
+253. 10 Apr 2022: Employee Free Time *(Hard)*  
+254. 10 Apr 2022: Baseball Game *(Easy)*  
