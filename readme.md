@@ -257,3 +257,4 @@ ___
 254. 10 Apr 2022: Baseball Game *(Easy)* 
 255. 23 May 2022: Ones and Zeros *(Med)* **REPEAT** 
 256. 23 May 2022: Sort array by Parity *(Easy)*
+257. 23 May 2022: Shortest Unsorted Continuous Subarray *(Med)*
