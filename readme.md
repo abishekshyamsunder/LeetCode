@@ -129,7 +129,7 @@ ___
 126. 31 Jan 2022: Richest Customer Wealth *(Easy)*
 127. 01 Feb 2022: Best Time to Buy and Sell Stock III *(Hard)*
 128. 01 Feb 2022: Best Time to Buy and Sell Stock IV *(Hard)*
-129. 03 Feb 2022: Missing element in Sorted Array *(Med)*
+129. 03 Feb 2022: Missing element in Sorted Array *(Med)* **REPEAT**
 130. 03 Feb 2022: Find Peak Element II *(Med)*
 131. 03 Feb 2022: 4Sum II *(Med)* **REPEAT**
 132. 04 Feb 2022: Divide Chocolate *(Hard)* **REPEAT**
@@ -254,4 +254,5 @@ ___
 251. 09 Apr 2022: Rearrange String distance K apart *(Hard)* **REPEAT**
 252. 09 Apr 2022: Top K Frequent Elements *(Med)*
 253. 10 Apr 2022: Employee Free Time *(Hard)*  
-254. 10 Apr 2022: Baseball Game *(Easy)*  
+254. 10 Apr 2022: Baseball Game *(Easy)* 
+255. 23 May 2022: Ones and Zeros *(Med)* **REPEAT** 
