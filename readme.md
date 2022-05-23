@@ -256,3 +256,4 @@ ___
 253. 10 Apr 2022: Employee Free Time *(Hard)*  
 254. 10 Apr 2022: Baseball Game *(Easy)* 
 255. 23 May 2022: Ones and Zeros *(Med)* **REPEAT** 
+256. 23 May 2022: Sort array by Parity *(Easy)*
