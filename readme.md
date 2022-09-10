@@ -258,3 +258,4 @@ ___
 255. 23 May 2022: Ones and Zeros *(Med)* **REPEAT** 
 256. 23 May 2022: Sort array by Parity *(Easy)*
 257. 23 May 2022: Shortest Unsorted Continuous Subarray *(Med)*
+258. 10 Sep 2022: The Number of Weak Characters in the Game *(Med)*
