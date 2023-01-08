@@ -264,4 +264,6 @@ ___
 261. 06 Jan 2023: Where will the ball fall *(Med)*  
 262. 06 Jan 2023: Remove Duplicates from sorted array *(Easy)*  
 263. 07 Jan 2023: Palindrome Linked list (With follow up) *(Easy)* 
-264. 07 Jan 2023; Permutations *(Med)* 
+264. 07 Jan 2023: Permutations *(Med)* 
+265. 08 Jan 2023: Odd Even Linked List *(Med)* **REPEAT** (New method found in Linked list)  
+266. 08 Jan 2023: Sort List *(Med)* (Same as 171. Added as new entry because new method used)
