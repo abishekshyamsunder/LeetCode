@@ -259,3 +259,9 @@ ___
 256. 23 May 2022: Sort array by Parity *(Easy)*
 257. 23 May 2022: Shortest Unsorted Continuous Subarray *(Med)*
 258. 10 Sep 2022: The Number of Weak Characters in the Game *(Med)*
+259. 05 Jan 2023: Happy Number *(Easy)*  
+260. 05 Jan 2023: Spiral Matrix *(Med)*  
+261. 06 Jan 2023: Where will the ball fall *(Med)*  
+262. 06 Jan 2023: Remove Duplicates from sorted array *(Easy)*  
+263. 07 Jan 2023: Palindrome Linked list (With follow up) *(Easy)* 
+264. 07 Jan 2023; Permutations *(Med)* 
