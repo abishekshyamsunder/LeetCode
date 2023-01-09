@@ -267,3 +267,6 @@ ___
 264. 07 Jan 2023: Permutations *(Med)* 
 265. 08 Jan 2023: Odd Even Linked List *(Med)* **REPEAT** (New method found in Linked list)  
 266. 08 Jan 2023: Sort List *(Med)* (Same as 171. Added as new entry because new method used)
+267. 09 Jan 2023: Binary Tree Preorder Traversal *(Easy)*  
+268. 09 Jan 2023: Longest Palindrome by concatinating two letter words *(Med)*  
+269. 09 Jan 2023: Task Scheduler *(Med)*  
