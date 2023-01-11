@@ -270,3 +270,7 @@ ___
 267. 09 Jan 2023: Binary Tree Preorder Traversal *(Easy)*  
 268. 09 Jan 2023: Longest Palindrome by concatinating two letter words *(Med)*  
 269. 09 Jan 2023: Task Scheduler *(Med)*   
+270. 11 Jan 2023: Invert Binary Tree *(Easy)* 
+271. 11 Jan 2023: Balanced Binary Tree *(Easy)* 
+272. 11 Jan 2023: Diameter of Biary Tree *(Easy)*  
+273. 11 Jan 2023: Path Sum III *(Med)*  **REPEAT** (Did on own but good question)
